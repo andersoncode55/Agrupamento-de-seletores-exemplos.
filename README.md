@@ -1,4 +1,4 @@
-<h1 align="center"> Agrupamento-de-seletores-exemplos</h1>
+<h1 align="center"> Agrupamento-de-seletores-exemplos </h1>
 
 ## 🔗 Índice
 * [🎯 Objetivo](#-objetivo)
